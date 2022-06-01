@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:study_flutter_navigator_2_0/app/core/navigation/delegates/book_router_delegate.dart';
-import 'package:study_flutter_navigator_2_0/app/core/navigation/parsers/book_route_information_parser.dart';
+import 'package:study_flutter_navigator_2_0/app/core/navigation/book_router_delegate.dart';
+import 'package:study_flutter_navigator_2_0/app/core/navigation/book_route_information_parser.dart';
 
 class App extends StatefulWidget {
   const App({Key? key}) : super(key: key);
